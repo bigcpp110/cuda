@@ -1,3 +1,0 @@
-/home/test/cuda/build/CMakeFiles/softmax_softmax1.dir
-/home/test/cuda/build/CMakeFiles/edit_cache.dir
-/home/test/cuda/build/CMakeFiles/rebuild_cache.dir
